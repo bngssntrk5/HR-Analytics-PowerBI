@@ -11,13 +11,18 @@ Generational Needs: Younger talents with longer commutes show higher exit rates,
 Performance & Career Path: Highlighted critical 10-year promotion bottlenecks for top performers, which directly impacts long-term loyalty.
 
 📸 Dashboard Gallery
-(After uploading your images, you can link them here)
 
 Overview Page: Snapshot of 1,470 dynamic employees.
 
+<img width="1376" height="769" alt="Overview" src="https://github.com/user-attachments/assets/48efd7de-c8ec-4d3a-949d-4de0c66d47ff" />
+
 Attrition Deep Dive: Visualizing drivers of turnover.
 
+<img width="1375" height="767" alt="Attrition" src="https://github.com/user-attachments/assets/0cdb753c-1809-4bf5-9181-6b47a65ce4fb" />
+
 Performance Matrix: Identifying future leaders and retention risks.
+
+<img width="1378" height="770" alt="Performance" src="https://github.com/user-attachments/assets/6920b899-12c2-4234-aadc-1f611f062180" />
 
 🛠️ Technical Skills Demonstrated
 Data Transformation: Cleaned and structured data using Power Query (ETL).
